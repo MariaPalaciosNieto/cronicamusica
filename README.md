@@ -4,7 +4,7 @@ Una aplicación web interactiva para el análisis de contenido musical de **"Cr�
 
 ## 🌐 Demo en Vivo
 
-[Ver análisis en GitHub Pages](https://mariapalaciosnieto.github.io/cronicamusica/)
+[Ver análisis en GitHub Pages](https://leximususal.github.io/cronicamusica/)
 
 ## 📊 Características
 
@@ -179,4 +179,4 @@ Proyecto desarrollado en el marco de investigación musicológica. Para consulta
 
 ---
 
-**🎼 "La consolidación del periodismo musical español"** • © 2024 Universidad de Salamanca
+**🎼 "La consolidación del periodismo musical español"** • © 2025 Universidad de Salamanca
