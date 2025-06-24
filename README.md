@@ -169,14 +169,23 @@ Este análisis aporta:
 - **Análisis léxico** de la consolidación del vocabulario operístico en español
 - **Perspectiva histórica** del desarrollo del periodismo musical especializado
 
-## 📄 Licencia
-
 Este proyecto está desarrollado para fines de investigación académica. Los datos utilizados pertenecen al dominio público (publicaciones 1878-1882).
 
-## 👥 Contribución
+## 📞 Contacto
 
-Proyecto desarrollado en el marco de investigación musicológica. Para consultas académicas o colaboraciones, contactar con el equipo del proyecto LexiMus.
+Para consultas académicas o colaboraciones:
+- **Institución**: Universidad de Salamanca
+- **Proyecto**: LexiMus https://leximus.es/
+- **Repositorio**: [GitHub](https://github.com/leximususal/principal)
 
+## 📜 Licencia y Citación
+
+Si utilizas este trabajo en tu investigación, por favor cita:
+```
+Análisis Musical de "Crónica de la Música". 
+Proyecto LexiMus, Universidad de Salamanca. 
+Disponible en: [https://leximususal.github.io/cronicamusica]
+---
 ---
 
 **🎼 "La consolidación del periodismo musical español"** • © 2025 Universidad de Salamanca
